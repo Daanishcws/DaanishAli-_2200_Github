@@ -1,4 +1,8 @@
-
+/***
+ *
+ * @author daanish ali
+ *
+ */
 public class sumseries {
 	
 	public static void main(String[] args) {
